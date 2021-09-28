@@ -1,5 +1,5 @@
 {
-  "name": "vercel-deno",
+  "name": "vercel-deno-kinlan",
   "version": "1.1.0",
   "description": "Vercel Runtime for Deno serverless functions",
   "main": "dist/index.js",
